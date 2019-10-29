@@ -3127,7 +3127,7 @@
                         ]
                     },
                     {
-                        "id": "KC_TRNS",
+                        "id": "KC_PGUP",
                         "fields": []
                     },
                     {
@@ -3891,7 +3891,7 @@
                         ]
                     },
                     {
-                        "id": "KC_TRNS",
+                        "id": "KC_HOME",
                         "fields": []
                     },
                     {
@@ -3994,7 +3994,7 @@
                         ]
                     },
                     {
-                        "id": "KC_TRNS",
+                        "id": "KC_PGDN",
                         "fields": []
                     },
                     {
@@ -4097,7 +4097,7 @@
                         ]
                     },
                     {
-                        "id": "KC_TRNS",
+                        "id": "KC_END",
                         "fields": []
                     },
                     {
