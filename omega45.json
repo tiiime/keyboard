@@ -1,0 +1,4217 @@
+{
+    "version": 1,
+    "keyboard": {
+        "keys": [
+            {
+                "id": 0,
+                "legend": "TAB",
+                "state": {
+                    "a": 7,
+                    "c": "#a598c5",
+                    "y": 0,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 0,
+                    "y2": 0,
+                    "t": "#efefea"
+                },
+                "row": 0,
+                "col": 0,
+                "keycodes": [
+                    {
+                        "id": "KC_GRV",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_GRV",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_ESC",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_F1",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_GRV",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "legend": "Q",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 0,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 1,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 0,
+                "col": 1,
+                "keycodes": [
+                    {
+                        "id": "KC_Q",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_Q",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_1",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_F2",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_MYCM",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "legend": "W",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 0,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 2,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 0,
+                "col": 2,
+                "keycodes": [
+                    {
+                        "id": "KC_W",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_W",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_2",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_F3",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_MAIL",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "legend": "E",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 0,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 3,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 0,
+                "col": 3,
+                "keycodes": [
+                    {
+                        "id": "KC_E",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_E",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_3",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_F4",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_CALC",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "legend": "R",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 0,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 4,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 0,
+                "col": 4,
+                "keycodes": [
+                    {
+                        "id": "KC_R",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_R",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_4",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_F5",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_MSEL",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "legend": "T",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 0,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 5,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 0,
+                "col": 5,
+                "keycodes": [
+                    {
+                        "id": "KC_T",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_T",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_5",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_F6",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "legend": "Y",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 0,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 6,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 0,
+                "col": 6,
+                "keycodes": [
+                    {
+                        "id": "KC_Y",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_Y",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_6",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_F7",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "legend": "U",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 0,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 7,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 0,
+                "col": 7,
+                "keycodes": [
+                    {
+                        "id": "KC_U",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_U",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_7",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_F8",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "legend": "I",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 0,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 8,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 0,
+                "col": 8,
+                "keycodes": [
+                    {
+                        "id": "KC_I",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_I",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_8",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_F9",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_MPLY",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "legend": "O",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 0,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 9,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 0,
+                "col": 9,
+                "keycodes": [
+                    {
+                        "id": "KC_O",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_O",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_9",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_F10",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_MPRV",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "legend": "P",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 0,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 10,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 0,
+                "col": 10,
+                "keycodes": [
+                    {
+                        "id": "KC_P",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_P",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_0",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_F11",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_MNXT",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "legend": "BACKSPACE",
+                "state": {
+                    "a": 7,
+                    "c": "#a598c5",
+                    "y": 0,
+                    "f": 3,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 2,
+                    "x2": 0,
+                    "x": 11,
+                    "y2": 0,
+                    "t": "#efefea"
+                },
+                "row": 0,
+                "col": 11,
+                "keycodes": [
+                    {
+                        "id": "KC_BSPC",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_BSPC",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_BSPC",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_F12",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "legend": "CAPS",
+                "state": {
+                    "a": 7,
+                    "c": "#a598c5",
+                    "y": 1,
+                    "f": 3,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1.25,
+                    "x2": 0,
+                    "x": 0,
+                    "y2": 0,
+                    "t": "#efefea"
+                },
+                "row": 1,
+                "col": 0,
+                "keycodes": [
+                    {
+                        "id": "KC_TAB",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TAB",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "TG()",
+                        "fields": [
+                            1
+                        ]
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "legend": "A",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 1,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 1.25,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 1,
+                "col": 1,
+                "keycodes": [
+                    {
+                        "id": "KC_A",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_A",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "legend": "S",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 1,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 2.25,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 1,
+                "col": 2,
+                "keycodes": [
+                    {
+                        "id": "KC_S",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_S",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_F8",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "legend": "D",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 1,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 3.25,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 1,
+                "col": 3,
+                "keycodes": [
+                    {
+                        "id": "KC_D",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_D",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_F7",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "legend": "F",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 1,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 4.25,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 1,
+                "col": 4,
+                "keycodes": [
+                    {
+                        "id": "KC_F",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_F",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 17,
+                "legend": "G",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 1,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 5.25,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 1,
+                "col": 5,
+                "keycodes": [
+                    {
+                        "id": "KC_G",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_G",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 18,
+                "legend": "H",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 1,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 6.25,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 1,
+                "col": 6,
+                "keycodes": [
+                    {
+                        "id": "KC_H",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_H",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 19,
+                "legend": "J",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 1,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 7.25,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 1,
+                "col": 7,
+                "keycodes": [
+                    {
+                        "id": "KC_J",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_J",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "legend": "K",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 1,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 8.25,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 1,
+                "col": 8,
+                "keycodes": [
+                    {
+                        "id": "KC_K",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_K",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 21,
+                "legend": "L",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 1,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 9.25,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 1,
+                "col": 9,
+                "keycodes": [
+                    {
+                        "id": "KC_L",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_L",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_LBRC",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_MINS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 22,
+                "legend": ":\n;",
+                "state": {
+                    "a": 5,
+                    "c": "#efefea",
+                    "y": 1,
+                    "f": 5,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 10.25,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 1,
+                "col": 10,
+                "keycodes": [
+                    {
+                        "id": "KC_SCLN",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_SCLN",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_RBRC",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_EQL",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_QUOT",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 23,
+                "legend": "ENTER",
+                "state": {
+                    "a": 7,
+                    "c": "#a598c5",
+                    "y": 1,
+                    "f": 3,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1.75,
+                    "x2": 0,
+                    "x": 11.25,
+                    "y2": 0,
+                    "t": "#efefea"
+                },
+                "row": 1,
+                "col": 11,
+                "keycodes": [
+                    {
+                        "id": "KC_ENT",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_ENT",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_BSLS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 24,
+                "legend": "SHIFT",
+                "state": {
+                    "a": 7,
+                    "c": "#a598c5",
+                    "y": 2,
+                    "f": 3,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1.75,
+                    "x2": 0,
+                    "x": 0,
+                    "y2": 0,
+                    "t": "#efefea"
+                },
+                "row": 2,
+                "col": 0,
+                "keycodes": [
+                    {
+                        "id": "KC_LSFT",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_LSFT",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 25,
+                "legend": "Z",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 2,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 1.75,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 2,
+                "col": 1,
+                "keycodes": [
+                    {
+                        "id": "KC_Z",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_Z",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 26,
+                "legend": "X",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 2,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 2.75,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 2,
+                "col": 2,
+                "keycodes": [
+                    {
+                        "id": "KC_X",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_X",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 27,
+                "legend": "C",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 2,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 3.75,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 2,
+                "col": 3,
+                "keycodes": [
+                    {
+                        "id": "KC_C",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_C",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 28,
+                "legend": "V",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 2,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 4.75,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 2,
+                "col": 4,
+                "keycodes": [
+                    {
+                        "id": "KC_V",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_V",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 29,
+                "legend": "B",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 2,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 5.75,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 2,
+                "col": 5,
+                "keycodes": [
+                    {
+                        "id": "KC_B",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_B",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 30,
+                "legend": "N",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 2,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 6.75,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 2,
+                "col": 6,
+                "keycodes": [
+                    {
+                        "id": "KC_N",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_N",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 31,
+                "legend": "M",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 2,
+                    "f": 9,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 7.75,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 2,
+                "col": 7,
+                "keycodes": [
+                    {
+                        "id": "KC_M",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_M",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_MUTE",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_MUTE",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 32,
+                "legend": "<\n,",
+                "state": {
+                    "a": 5,
+                    "c": "#efefea",
+                    "y": 2,
+                    "f": 7,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 8.75,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 2,
+                "col": 8,
+                "keycodes": [
+                    {
+                        "id": "KC_COMM",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_COMM",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_VOLD",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_VOLD",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "legend": ">\n.",
+                "state": {
+                    "a": 5,
+                    "c": "#efefea",
+                    "y": 2,
+                    "f": 5,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 9.75,
+                    "y2": 0,
+                    "t": "#a698c5"
+                },
+                "row": 2,
+                "col": 9,
+                "keycodes": [
+                    {
+                        "id": "KC_DOT",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_DOT",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_VOLU",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_VOLU",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 34,
+                "legend": "?\n/",
+                "state": {
+                    "a": 5,
+                    "c": "#efefea",
+                    "y": 2,
+                    "f": 3,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 10.75,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 2,
+                "col": 10,
+                "keycodes": [
+                    {
+                        "id": "LT()",
+                        "fields": [
+                            4,
+                            {
+                                "id": "KC_UP",
+                                "fields": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "LT()",
+                        "fields": [
+                            4,
+                            {
+                                "id": "KC_UP",
+                                "fields": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_SLSH",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 35,
+                "legend": "RSHIFT",
+                "state": {
+                    "a": 5,
+                    "c": "#a598c5",
+                    "y": 2,
+                    "f": 3,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1.25,
+                    "x2": 0,
+                    "x": 11.75,
+                    "y2": 0,
+                    "t": "#efefea"
+                },
+                "row": 2,
+                "col": 11,
+                "keycodes": [
+                    {
+                        "id": "KC_RSFT",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_RSFT",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 36,
+                "legend": "CTRL",
+                "state": {
+                    "a": 7,
+                    "c": "#a598c5",
+                    "y": 3,
+                    "f": 3,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1.25,
+                    "x2": 0,
+                    "x": 0,
+                    "y2": 0,
+                    "t": "#efefea"
+                },
+                "row": 3,
+                "col": 0,
+                "keycodes": [
+                    {
+                        "id": "KC_LCTL",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_LCTL",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 37,
+                "legend": "WIN",
+                "state": {
+                    "a": 7,
+                    "c": "#a598c5",
+                    "y": 3,
+                    "f": 3,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1.25,
+                    "x2": 0,
+                    "x": 1.25,
+                    "y2": 0,
+                    "t": "#efefea"
+                },
+                "row": 3,
+                "col": 1,
+                "keycodes": [
+                    {
+                        "id": "KC_LGUI",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_LALT",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 38,
+                "legend": "ALT",
+                "state": {
+                    "a": 7,
+                    "c": "#a598c5",
+                    "y": 3,
+                    "f": 3,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1.25,
+                    "x2": 0,
+                    "x": 2.5,
+                    "y2": 0,
+                    "t": "#efefea"
+                },
+                "row": 3,
+                "col": 2,
+                "keycodes": [
+                    {
+                        "id": "KC_LALT",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_LGUI",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 39,
+                "legend": "FN0",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 3,
+                    "f": 4,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA SPACE",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 2.25,
+                    "x2": 0,
+                    "x": 3.75,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 3,
+                "col": 3,
+                "keycodes": [
+                    {
+                        "id": "LT()",
+                        "fields": [
+                            2,
+                            {
+                                "id": "KC_SPC",
+                                "fields": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "LT()",
+                        "fields": [
+                            2,
+                            {
+                                "id": "KC_SPC",
+                                "fields": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 40,
+                "legend": "SPC",
+                "state": {
+                    "a": 7,
+                    "c": "#efefea",
+                    "y": 3,
+                    "f": 4,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA SPACE",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 2.75,
+                    "x2": 0,
+                    "x": 6,
+                    "y2": 0,
+                    "t": "#a598c5"
+                },
+                "row": 3,
+                "col": 5,
+                "keycodes": [
+                    {
+                        "id": "KC_SPC",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_SPC",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 41,
+                "legend": "FN1",
+                "state": {
+                    "a": 5,
+                    "c": "#a598c5",
+                    "y": 3,
+                    "f": 3,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 8.75,
+                    "y2": 0,
+                    "t": "#ffffff"
+                },
+                "row": 3,
+                "col": 8,
+                "keycodes": [
+                    {
+                        "id": "LT()",
+                        "fields": [
+                            3,
+                            {
+                                "id": "KC_DEL",
+                                "fields": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "LT()",
+                        "fields": [
+                            3,
+                            {
+                                "id": "KC_DEL",
+                                "fields": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 42,
+                "legend": "FN2",
+                "state": {
+                    "a": 5,
+                    "c": "#a598c5",
+                    "y": 3,
+                    "f": 3,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 9.75,
+                    "y2": 0,
+                    "t": "#ffffff"
+                },
+                "row": 3,
+                "col": 9,
+                "keycodes": [
+                    {
+                        "id": "MT()",
+                        "fields": [
+                            64,
+                            {
+                                "id": "KC_LEFT",
+                                "fields": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "MT()",
+                        "fields": [
+                            64,
+                            {
+                                "id": "KC_LEFT",
+                                "fields": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 43,
+                "legend": "FN3",
+                "state": {
+                    "a": 5,
+                    "c": "#a598c5",
+                    "y": 3,
+                    "f": 3,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1,
+                    "x2": 0,
+                    "x": 10.75,
+                    "y2": 0,
+                    "t": "#ffffff"
+                },
+                "row": 3,
+                "col": 10,
+                "keycodes": [
+                    {
+                        "id": "LT()",
+                        "fields": [
+                            4,
+                            {
+                                "id": "KC_DOWN",
+                                "fields": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "LT()",
+                        "fields": [
+                            4,
+                            {
+                                "id": "KC_DOWN",
+                                "fields": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            },
+            {
+                "id": 44,
+                "legend": "FN4",
+                "state": {
+                    "a": 5,
+                    "c": "#a598c5",
+                    "y": 3,
+                    "f": 3,
+                    "h2": 0,
+                    "h": 1,
+                    "rx": 0,
+                    "ry": 0,
+                    "n": true,
+                    "p": "NDSA",
+                    "r": 0,
+                    "w2": 0,
+                    "w": 1.25,
+                    "x2": 0,
+                    "x": 11.75,
+                    "y2": 0,
+                    "t": "#efefea"
+                },
+                "row": 3,
+                "col": 11,
+                "keycodes": [
+                    {
+                        "id": "MT()",
+                        "fields": [
+                            16,
+                            {
+                                "id": "KC_RGHT",
+                                "fields": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "MT()",
+                        "fields": [
+                            16,
+                            {
+                                "id": "KC_RGHT",
+                                "fields": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    },
+                    {
+                        "id": "KC_TRNS",
+                        "fields": []
+                    }
+                ]
+            }
+        ],
+        "controller": 0,
+        "bounds": {
+            "max": {
+                "y": 4,
+                "x": 13
+            },
+            "min": {
+                "y": 0,
+                "x": 0
+            }
+        },
+        "rows": 4,
+        "cols": 12,
+        "pins": {
+            "compose": null,
+            "led": null,
+            "row": [
+                "27",
+                "26",
+                "30",
+                "29"
+            ],
+            "UART_TXD": "9",
+            "LED_BLE": "19",
+            "scroll": null,
+            "rgb": null,
+            "num": null,
+            "LED_CHARGING": "18",
+            "POWER_BUTTON": "3",
+            "RGB_DI_PIN": "10",
+            "LED_USB": "20",
+            "caps": "4",
+            "kana": null,
+            "col": [
+                "28",
+                "25",
+                "24",
+                "23",
+                "22",
+                "21",
+                "11",
+                "12",
+                "13",
+                "14",
+                "15",
+                "16"
+            ],
+            "UART_RXD": "8"
+        },
+        "macros": {},
+        "settings": {
+            "PRODUCT": "Omega45",
+            "LED_AUTOOFF_TIME": 5,
+            "SLEEP_OFF_TIMEOUT": 20,
+            "PASSKEY": 1,
+            "diodeDirection": 0,
+            "RGBLED_NUM": 8
+        }
+    }
+}
