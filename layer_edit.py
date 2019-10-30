@@ -30,9 +30,18 @@ def switchLayer(config, source, target):
 
     return config
 
+def clearLayer(config, target):
+    keyboard = config['keyboard']
+    keys = keyboard['keys'] 
 
+    for key in keys:
+        keycodes = key['keycodes']
+        keycodes[target]["id"] = "KC_TRNS" 
+
+    return config
 
 config = read()
-# copyLayer(config, 0, 1)
+# copyLayer(config,  0, 1)
 # switchLayer(config, 3, 4)
-write(config)
+clearLayer(config,1)
+write(config) 
